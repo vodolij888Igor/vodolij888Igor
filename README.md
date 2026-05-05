@@ -32,6 +32,25 @@ Repository: **mindixoai-saas-platform**
 
 ---
 
+### AI SaaS Frontend Demo
+
+**Frontend-only Next.js demo for an AI SaaS product with landing page, dashboard preview, pricing UI, integrations section, and reusable product layout.**
+
+This project demonstrates product-focused frontend development for AI SaaS platforms: clean landing page structure, reusable UI sections, dashboard-style interface, pricing presentation, integration positioning, and portfolio-ready product design.
+
+**What it shows:**
+
+- Next.js / React frontend structure
+- TypeScript-based UI development
+- Tailwind CSS styling
+- SaaS landing page design
+- Dashboard preview interface
+- Pricing and integrations UI
+- Product positioning for AI automation tools
+- Frontend architecture for future backend/API integration
+
+Repository: **ai-saas-frontend-demo**
+
 ## AI Automation Portfolio
 
 These projects are practical backend/API automation tools built around real business workflows.
@@ -53,6 +72,7 @@ These projects are practical backend/API automation tools built around real busi
 ### Full-Stack AI Product Development
 
 - MindixoAI SaaS Platform
+- AI SaaS Frontend Demo
 
 ### AI Agents & Business Automation
 
