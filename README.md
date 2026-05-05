@@ -32,6 +32,26 @@ Repository: **mindixoai-saas-platform**
 
 ---
 
+### OpsPilot AI — Full-Stack AI Dashboard
+
+OpsPilot AI is a full-stack AI operations dashboard built with a Next.js / TypeScript frontend and a FastAPI backend.
+
+It demonstrates a complete product-style AI workflow: a polished SaaS dashboard UI, workflow modules, task analysis form, frontend-to-backend API communication, and structured backend responses for business task routing.
+
+**What this project shows:**
+
+- Full-stack AI product architecture
+- Next.js / TypeScript frontend
+- FastAPI backend
+- Frontend-to-backend API integration
+- SaaS dashboard UI and product thinking
+- Structured task analysis response flow
+- Portfolio-ready product presentation with screenshots
+
+**Repository:** `fullstack-ai-dashboard`
+
+---
+
 ### AI SaaS Frontend Demo
 
 **Frontend-only Next.js demo for an AI SaaS product with landing page, dashboard preview, pricing UI, integrations section, and reusable product layout.**
@@ -50,6 +70,8 @@ This project demonstrates product-focused frontend development for AI SaaS platf
 - Frontend architecture for future backend/API integration
 
 Repository: **ai-saas-frontend-demo**
+
+---
 
 ## AI Automation Portfolio
 
