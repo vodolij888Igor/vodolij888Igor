@@ -95,6 +95,7 @@ These projects are practical backend/API automation tools built around real busi
 
 - MindixoAI SaaS Platform
 - AI SaaS Frontend Demo
+- OpsPilot AI — Full-Stack AI Dashboard
 
 ### AI Agents & Business Automation
 
