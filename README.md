@@ -1,14 +1,36 @@
 # Hi, I’m Igor Kosylo
 
-**AI Automation Engineer | AI Integration Developer | Full-Stack AI Product Developer | AI Creator**
+**Software Developer | AI Automation Engineer | Flutter & Full-Stack Applications**
 
-I build practical AI-powered tools for business automation, API integrations, backend workflows, AI assistants, and full-stack SaaS-style products.
+I build practical software across mobile applications, full-stack web products, backend APIs, automation workflows, and AI integrations — with a focus on real business problems and maintainable architecture.
 
-My work focuses on solving real business problems with AI: automating repetitive workflows, connecting systems through APIs, generating structured outputs, processing documents, improving customer support, supporting CRM follow-ups, and building reusable product foundations.
+My work spans Flutter and Firebase/Firestore mobile apps, Python/FastAPI and Next.js/TypeScript full-stack products, REST APIs, OpenAI integrations, OCR and document processing, Google Maps location features, GitHub Actions CI, and testing. I aim for portfolio-ready, business-oriented development — clear structure, testing, maintainable architecture, and honest scope.
 
 ---
 
-## Featured Project
+## Featured Projects
+
+### Savingor — Flutter Mobile App
+
+Savingor is a Canada-first Flutter mobile application that helps households track grocery spending, scan receipts, preserve receipt history, remember product prices, discover nearby stores, and make smarter shopping decisions.
+
+It demonstrates end-to-end mobile product development: structured Flutter architecture, Firebase Authentication, Firestore data sync, user-owned data security rules, OCR receipt processing, Google Maps / Places integration, shopping workflows, analytics, localization, automated tests, and GitHub Actions CI.
+
+**What this project shows:**
+
+- Flutter / Dart mobile application development
+- Firebase Authentication and Firestore backend integration
+- User-owned data structure and Firestore security rules
+- OCR receipt scanning and custom receipt parsing
+- Google Maps, Places, geolocation, and nearby-store discovery
+- Shopping list, price memory, and savings analytics
+- Localization and polished mobile UI
+- GitHub Actions CI and automated tests
+- Product-focused mobile app development
+
+**Repository:** [savingor_app](https://github.com/vodolij888Igor/savingor_app)
+
+---
 
 ### MindixoAI SaaS Platform
 
@@ -28,19 +50,19 @@ It demonstrates how a multi-tool AI product can be organized end-to-end: from la
 - Branding and reusable SaaS setup
 - Local demo structure with clear future production path
 
-Repository: **mindixoai-saas-platform**
+**Repository:** [mindixoai-saas-platform](https://github.com/vodolij888Igor/mindixoai-saas-platform)
 
 ---
 
-### OpsPilot AI — Full-Stack AI Dashboard
+### OpsPilot AI — Full-Stack Operations Dashboard
 
-OpsPilot AI is a full-stack AI operations dashboard built with a Next.js / TypeScript frontend and a FastAPI backend.
+OpsPilot AI is a full-stack operations dashboard built with a Next.js / TypeScript frontend and a FastAPI backend.
 
-It demonstrates a complete product-style AI workflow: a polished SaaS dashboard UI, workflow modules, task analysis form, frontend-to-backend API communication, and structured backend responses for business task routing.
+It demonstrates a complete product-style workflow: a polished SaaS dashboard UI, workflow modules, task analysis form, frontend-to-backend API communication, and structured backend responses for business task routing.
 
 **What this project shows:**
 
-- Full-stack AI product architecture
+- Full-stack product architecture
 - Next.js / TypeScript frontend
 - FastAPI backend
 - Frontend-to-backend API integration
@@ -48,7 +70,7 @@ It demonstrates a complete product-style AI workflow: a polished SaaS dashboard 
 - Structured task analysis response flow
 - Portfolio-ready product presentation with screenshots
 
-**Repository:** `fullstack-ai-dashboard`
+**Repository:** [fullstack-ai-dashboard](https://github.com/vodolij888Igor/fullstack-ai-dashboard)
 
 ---
 
@@ -69,13 +91,13 @@ This project demonstrates product-focused frontend development for AI SaaS platf
 - Product positioning for AI automation tools
 - Frontend architecture for future backend/API integration
 
-Repository: **ai-saas-frontend-demo**
+**Repository:** [ai-saas-frontend-demo](https://github.com/vodolij888Igor/ai-saas-frontend-demo)
 
 ---
 
-## AI Automation Portfolio
+## Automation & AI Integration Portfolio
 
-These projects are practical backend/API automation tools built around real business workflows.
+Practical backend/API automation tools built around real business workflows, with AI where it adds clear value.
 
 | Project | Business Use Case | Main Skills |
 |---|---|---|
@@ -91,11 +113,15 @@ These projects are practical backend/API automation tools built around real busi
 
 ## Portfolio Focus
 
-### Full-Stack AI Product Development
+### Mobile & Full-Stack Applications
+
+- Savingor — Flutter Grocery Savings App
+
+### Full-Stack Web & AI Products
 
 - MindixoAI SaaS Platform
 - AI SaaS Frontend Demo
-- OpsPilot AI — Full-Stack AI Dashboard
+- OpsPilot AI — Full-Stack Operations Dashboard
 
 ### AI Agents & Business Automation
 
@@ -111,6 +137,7 @@ These projects are practical backend/API automation tools built around real busi
 ### Document AI
 
 - AI PDF / Invoice Analyzer
+- Savingor — OCR Receipt Processing
 
 ### Sales & Marketing Automation
 
@@ -123,29 +150,33 @@ These projects are practical backend/API automation tools built around real busi
 
 | Area | Technologies |
 |---|---|
+| Mobile | Flutter, Dart |
+| Cloud / Backend Services | Firebase Auth, Firestore, Firebase Security Rules |
 | Backend | Python, FastAPI, Flask |
-| Frontend | JavaScript, HTML, CSS, React / Next.js basics |
-| AI | OpenAI API, prompt engineering, structured AI outputs |
+| Frontend | JavaScript, HTML, CSS, React, Next.js, TypeScript |
+| Maps & Location | Google Maps, Google Places, Geolocation |
+| AI & OCR | OpenAI API, Google ML Kit OCR, structured AI outputs, prompt engineering |
 | APIs | REST APIs, JSON, Swagger / OpenAPI |
-| Databases | SQLite, PostgreSQL basics, Firebase basics |
+| Databases | SQLite, PostgreSQL basics, Firestore |
 | Automation | CRM workflows, email workflows, Google Sheets workflows |
-| Testing | pytest, API tests |
-| Dev Tools | Git, GitHub, Cursor, VS Code, GitHub Actions |
+| Testing & CI | Flutter tests, pytest, GitHub Actions |
+| Dev Tools | Git, GitHub, Cursor, VS Code |
 | Product | SaaS structure, dashboards, billing concepts, business use cases |
 
 ---
 
 ## What I Can Help Build
 
+- Flutter mobile apps with Firebase / Firestore backends
+- Full-stack web products and API integrations
 - AI automation tools for business workflows
 - AI agents for structured task execution
-- API integrations between business systems
 - CRM and sales follow-up automation
 - Customer support automation
-- Document and invoice analysis tools
+- Document, invoice, and receipt analysis with OCR / structured extraction
 - Google Sheets and reporting workflows
-- Full-stack AI SaaS product prototypes
-- Reusable AI product architectures
+- Google Maps and location-based app features
+- SaaS-style product prototypes with dashboards and billing concepts
 
 ---
 
@@ -159,13 +190,16 @@ Each project is being polished with:
 - Architecture notes
 - Screenshots
 - Testing
+- CI workflows and test coverage where applicable
 - Security notes
 - Limitations and future improvements
 
-The goal is to show practical, maintainable, and business-oriented AI engineering work — not just experimental demos.
+The goal is to show practical, maintainable, and business-oriented software development — not just experimental demos.
 
 ---
 
 ## Contact
 
-GitHub: **@vodolij888Igor**
+GitHub: [@vodolij888Igor](https://github.com/vodolij888Igor)
+
+Open to remote software development, Flutter/Firebase, backend API, and AI automation opportunities.
