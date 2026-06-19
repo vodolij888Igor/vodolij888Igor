@@ -95,6 +95,19 @@ This project demonstrates product-focused frontend development for AI SaaS platf
 
 ---
 
+## Core Portfolio Projects
+
+A quick overview of my strongest portfolio projects across mobile, full-stack, frontend, and automation development.
+
+| Project | Type | What It Demonstrates |
+| --- | --- | --- |
+| [Savingor](https://github.com/vodolij888Igor/savingor_app) | Flutter Mobile App | Flutter, Firebase Auth, Firestore, OCR, Google Maps, CI, tests, product-focused mobile development |
+| [MindixoAI](https://github.com/vodolij888Igor/mindixoai-saas-platform) | Full-Stack SaaS Prototype | SaaS architecture, authentication, dashboard, credits, pricing, OpenAI integration |
+| [OpsPilot AI](https://github.com/vodolij888Igor/fullstack-ai-dashboard) | Full-Stack Dashboard | Next.js, TypeScript, FastAPI, API integration, SaaS-style operations dashboard |
+| [AI SaaS Frontend Demo](https://github.com/vodolij888Igor/ai-saas-frontend-demo) | Frontend Product Demo | Next.js, TypeScript, landing page, dashboard UI, pricing and integrations interface |
+
+---
+
 ## Automation & AI Integration Portfolio
 
 Practical backend/API automation tools built around real business workflows, with AI where it adds clear value.
