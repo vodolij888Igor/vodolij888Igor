@@ -1,11 +1,27 @@
 # Hi, I’m Igor Kosylo
 
-**Software Developer | AI Automation Engineer | Flutter & Full-Stack Applications**
+**Software Developer | Applied AI Engineer | AI Automation & Integration Engineer | Full-Stack Web & Mobile Developer**
 
-I build practical software across mobile applications, full-stack web products, backend APIs, automation workflows, and AI integrations — with a focus on real business problems and maintainable architecture.
+I build practical AI-powered software products, backend APIs, automation workflows, LLM applications, and web/mobile product features using Flutter, Firebase, FastAPI, Next.js, OpenAI API, and modern AI-assisted development workflows.
 
-My work spans Flutter and Firebase/Firestore mobile apps, Python/FastAPI and Next.js/TypeScript full-stack products, REST APIs, OpenAI integrations, OCR and document processing, Google Maps location features, GitHub Actions CI, and testing. I aim for portfolio-ready, business-oriented development — clear structure, testing, maintainable architecture, and honest scope.
+My work spans mobile applications, full-stack web products, SaaS-style dashboards, backend API systems, AI integrations, OCR/document processing, Google Maps location features, GitHub Actions CI, and testing — with a focus on real business problems, maintainable architecture, and clear product value.
 
+My focus is applied AI engineering: AI automation, API integrations, LLM-powered tools, OCR/document processing, AI assistants, workflow systems, mobile apps, and full-stack web/mobile product development — not machine learning research or model training.
+
+## Main Professional Direction
+
+I position my work at the intersection of software development, applied AI engineering, automation, and product development.
+
+My strongest focus areas are:
+
+- Software Development
+- Applied AI Engineering
+- AI Automation Engineering
+- AI Integration Engineering
+- LLM Application Development
+- Full-Stack Web & Mobile Development
+- AI-Powered SaaS Product Development
+- SEO-Driven Digital Product Platform Development
 ---
 
 ## Featured Projects
