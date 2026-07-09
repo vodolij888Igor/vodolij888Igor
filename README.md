@@ -22,6 +22,22 @@ My strongest focus areas are:
 - Full-Stack Web & Mobile Development
 - AI-Powered SaaS Product Development
 - SEO-Driven Digital Product Platform Development
+
+ ## Applied AI Engineering Focus
+
+My work focuses on applied AI engineering: building practical software systems that use AI models, APIs, automation workflows, and structured backend logic to solve real business and product problems.
+
+Areas I work with:
+
+- AI automation workflows for business processes
+- OpenAI API and LLM-powered application features
+- AI assistants, chatbots, and structured response systems
+- API integrations between frontend, backend, AI services, databases, and external tools
+- OCR, receipt, invoice, and document data extraction
+- CRM, email, lead, and customer support automation
+- Full-stack AI product development with SaaS-style architecture
+- Mobile AI product features with Flutter, Firebase, Firestore, and cloud services
+- SEO-driven digital product platforms with content, product stores, lead capture, and automation workflows
 ---
 
 ## Featured Projects
