@@ -189,6 +189,15 @@ Practical backend/API automation tools built around real business workflows, wit
 - AI Lead Form Analyzer
 - AI CRM Follow-up Automation
 
+### SEO & Digital Product Systems
+
+- SEO-driven content platforms
+- Digital product stores and product pages
+- Lead capture and email list building
+- AI-assisted content workflows
+- Product monetization and sales funnel structure
+- WordPress / web platform setup for content and digital products
+
 ---
 
 ## Tech Stack
@@ -201,12 +210,15 @@ Practical backend/API automation tools built around real business workflows, wit
 | Frontend | JavaScript, HTML, CSS, React, Next.js, TypeScript |
 | Maps & Location | Google Maps, Google Places, Geolocation |
 | AI & OCR | OpenAI API, Google ML Kit OCR, structured AI outputs, prompt engineering |
+| Applied AI Engineering | AI automation, API integrations, LLM applications, structured AI outputs, AI assistants |
+| LLM Applications | OpenAI API, prompt engineering, AI chat assistants, document analysis, workflow assistants |
+| AI Automation | CRM workflows, email workflows, Google Sheets workflows, customer support automation, lead analysis |
+| Product Systems | SaaS architecture, dashboards, billing concepts, digital product stores, SEO content platforms |
+| SEO & Digital Products | SEO-driven websites, content platforms, product pages, lead capture, AI-assisted content workflows |
 | APIs | REST APIs, JSON, Swagger / OpenAPI |
 | Databases | SQLite, PostgreSQL basics, Firestore |
-| Automation | CRM workflows, email workflows, Google Sheets workflows |
 | Testing & CI | Flutter tests, pytest, GitHub Actions |
 | Dev Tools | Git, GitHub, Cursor, VS Code |
-| Product | SaaS structure, dashboards, billing concepts, business use cases |
 
 ---
 
@@ -222,6 +234,14 @@ Practical backend/API automation tools built around real business workflows, wit
 - Google Sheets and reporting workflows
 - Google Maps and location-based app features
 - SaaS-style product prototypes with dashboards and billing concepts
+- LLM-powered application features using OpenAI API
+- RAG-style document Q&A systems
+- AI-powered SEO and digital product platforms
+- Content websites with digital product stores and lead capture
+- Backend APIs for AI-powered SaaS products
+- Structured AI outputs for business workflows
+- OCR, invoice, receipt, and document extraction systems
+- AI assistants for customer support, sales, and internal workflows
 
 ---
 
@@ -241,10 +261,22 @@ Each project is being polished with:
 
 The goal is to show practical, maintainable, and business-oriented software development — not just experimental demos.
 
+## Current Direction
+
+I am continuing to build and polish practical AI-powered products, automation systems, and full-stack web/mobile applications.
+
+My current direction includes:
+
+- improving AI automation and integration projects
+- building stronger LLM application features
+- adding RAG-style document Q&A systems
+- developing SEO-driven digital product platforms
+- creating web platforms with content, lead capture, and digital product stores
+- continuing to improve production-quality architecture, testing, documentation, and deployment workflows
 ---
 
 ## Contact
 
 GitHub: [@vodolij888Igor](https://github.com/vodolij888Igor)
 
-Open to remote software development, Flutter/Firebase, backend API, and AI automation opportunities.
+Open to remote software development, applied AI engineering, AI automation & integration, full-stack web/mobile development, and AI-powered product opportunities.
